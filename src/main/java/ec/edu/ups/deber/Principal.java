@@ -59,6 +59,7 @@ public class Principal {
          
         System.out.println("El cliente es;"+restaurant1.cliente);
         System.out.println("La direccion es;"+restaurant1.direccion);
+        
         System.out.println("-------------------------------------------------");
         
         
